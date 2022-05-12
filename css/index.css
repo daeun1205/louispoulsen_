@@ -1167,6 +1167,9 @@ header {
     height: 28px;
   }
   /* 조명 */
+  .section3{
+    padding: 0;
+  }
   .tab_btn {
     width: 720px;
   }
