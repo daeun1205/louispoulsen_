@@ -201,22 +201,10 @@ $(document).ready(function(){
               .setTween(timeline)
               .setPin(".card-background")
               // 아이템들이 움직이는 고정점
-              .addTo(controller)
+              .addTo(controller)  
 
-
-            
         }else{
-            
-
-
+        
         }
-
-
-
-
     }
-
-
-
-
 });//end
